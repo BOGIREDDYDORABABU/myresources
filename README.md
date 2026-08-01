@@ -1,3 +1,4 @@
+
 # My Resources — Secure Resource Sharing, Borrowing & Marketplace Platform
 
 Full-stack implementation: Spring Boot + MySQL backend, React + Tailwind frontend.
@@ -103,3 +104,4 @@ Open `http://localhost:5173`. In dev, `/api/*` is proxied to
 6. As Borrower: **My Borrows** → enter the OTP → get a pickup QR code.
 7. As Owner: confirm pickup, then confirm return once requested.
 8. As Admin: check dashboard stats, verify users/resources, triage complaints.
+# myresources
